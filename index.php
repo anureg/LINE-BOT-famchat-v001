@@ -1,3 +1,3 @@
 <?php
-    echo "Hello, สวัสดี!";
+    echo "สวัสดี Give ME 5";
 ?>
